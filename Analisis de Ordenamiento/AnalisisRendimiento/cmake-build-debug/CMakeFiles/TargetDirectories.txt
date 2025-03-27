@@ -1,0 +1,3 @@
+C:/Users/joans/CLionProjects/AnalisisRendimiento/cmake-build-debug/CMakeFiles/AnalisisRendimiento.dir
+C:/Users/joans/CLionProjects/AnalisisRendimiento/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joans/CLionProjects/AnalisisRendimiento/cmake-build-debug/CMakeFiles/rebuild_cache.dir

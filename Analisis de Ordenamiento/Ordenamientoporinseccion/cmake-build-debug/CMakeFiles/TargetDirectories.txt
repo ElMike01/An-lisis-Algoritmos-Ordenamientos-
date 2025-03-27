@@ -1,0 +1,3 @@
+C:/Users/joans/CLionProjects/Ordenamientoporinseccion/cmake-build-debug/CMakeFiles/Ordenamientoporinseccion.dir
+C:/Users/joans/CLionProjects/Ordenamientoporinseccion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joans/CLionProjects/Ordenamientoporinseccion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
